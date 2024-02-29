@@ -6,4 +6,4 @@
 docker compose up -d
 ```
 
-web url: https://localhost
+web url: http://localhost
